@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "prepare": "husky install",
-    "precommit": "lint-staged",
-    "commitlint": "commitlint -e"
+    "precommit": "lint-staged"
   },
   "dependencies": {
     "next": "11.1.0",
